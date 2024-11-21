@@ -1,0 +1,16 @@
+big yikes addThem(variable1, variable2) {
+   spill (variable1 + variable2) no cap
+   skibidi ("Variables Added!") no cap
+}
+
+addThem(10, 20.5) no cap
+
+rizzler a = [12, 24, 36] no cap
+
+big yikes helloWorld(x, y) {
+    skibidi ("hello!") no cap
+    spill ([x + y]) no cap
+}
+
+sigma z = helloWorld(2, 3) no cap
+skibidi (z) no cap
