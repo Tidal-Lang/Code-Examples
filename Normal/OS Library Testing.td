@@ -1,5 +1,4 @@
 import(os);
-import(std);
 
 
 var testdir = "os_test_dir";

@@ -1,4 +1,3 @@
-import(std, embedded); /* Not Required, But you can if you want to */
 import(math, embedded);
 
 print(math.round(2.123));
